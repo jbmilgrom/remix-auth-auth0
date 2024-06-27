@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "declaration": true,
     "jsx": "react-jsx",
-    "outDir": "./build"
+    "noEmit": true
   },
   "exclude": ["node_modules"],
   "include": ["src/**/*.ts", "src/**/*.tsx"]
